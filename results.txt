@@ -1,90 +1,22 @@
-[{'alegatori': 3248,
-  'candidat_iohannis': 26.50862068965517,
-  'candidat_ponta': 49.90763546798029,
-  'localitate': 'ORAŞ BĂILE OLĂNEŞTI',
-  'raport_speciali_votat': 32.327586206896555,
-  'raport_votat_inscrisi': 84.03622250970247},
- {'alegatori': 1142,
-  'candidat_iohannis': 36.42732049036778,
-  'candidat_ponta': 50.525394045534156,
-  'localitate': 'LĂDEŞTI',
-  'raport_speciali_votat': 27.670753064798596,
-  'raport_votat_inscrisi': 75.32981530343008},
- {'alegatori': 2082,
-  'candidat_iohannis': 41.35446685878962,
-  'candidat_ponta': 37.99231508165226,
-  'localitate': 'ORAŞ BĂILE GOVORA',
-  'raport_speciali_votat': 27.473583093179638,
-  'raport_votat_inscrisi': 81.96850393700788},
- {'alegatori': 1161,
-  'candidat_iohannis': 50.99052540913006,
-  'candidat_ponta': 36.17571059431525,
-  'localitate': 'MĂCIUCA',
-  'raport_speciali_votat': 27.39018087855297,
-  'raport_votat_inscrisi': 75.29182879377431},
- {'alegatori': 5131,
-  'candidat_iohannis': 40.771779380237774,
-  'candidat_ponta': 37.88735139349055,
-  'localitate': 'ORAŞ CĂLIMĂNEŞTI',
-  'raport_speciali_votat': 27.343597739232116,
-  'raport_votat_inscrisi': 68.63295880149812},
- {'alegatori': 688,
-  'candidat_iohannis': 33.72093023255814,
-  'candidat_ponta': 43.75,
-  'localitate': 'MILCOIU',
-  'raport_speciali_votat': 24.418604651162788,
-  'raport_votat_inscrisi': 65.39923954372624},
- {'alegatori': 521,
-  'candidat_iohannis': 60.26871401151631,
-  'candidat_ponta': 24.95201535508637,
-  'localitate': 'TITEŞTI',
-  'raport_speciali_votat': 24.37619961612284,
-  'raport_votat_inscrisi': 75.39797395079594},
- {'alegatori': 816,
-  'candidat_iohannis': 30.024509803921568,
-  'candidat_ponta': 47.181372549019606,
-  'localitate': 'GHIOROIU',
-  'raport_speciali_votat': 23.651960784313726,
-  'raport_votat_inscrisi': 61.12359550561798},
- {'alegatori': 1117,
-  'candidat_iohannis': 53.35720680393913,
-  'candidat_ponta': 29.722470904207697,
-  'localitate': 'CÎINENI',
-  'raport_speciali_votat': 21.038495971351836,
-  'raport_votat_inscrisi': 60.05376344086022},
- {'alegatori': 1114,
-  'candidat_iohannis': 26.032315978456015,
-  'candidat_ponta': 50.80789946140036,
-  'localitate': 'ZĂTRENI',
-  'raport_speciali_votat': 20.287253141831236,
-  'raport_votat_inscrisi': 56.06441872169099},
- {'alegatori': 788,
-  'candidat_iohannis': 55.964467005076145,
-  'candidat_ponta': 25.761421319796955,
-  'localitate': 'RACOVIŢA',
-  'raport_speciali_votat': 19.289340101522843,
-  'raport_votat_inscrisi': 57.72893772893772},
- {'alegatori': 1124,
-  'candidat_iohannis': 17.793594306049823,
-  'candidat_ponta': 60.76512455516014,
-  'localitate': 'DĂNICEI',
-  'raport_speciali_votat': 19.217081850533805,
-  'raport_votat_inscrisi': 63.6466591166478},
- {'alegatori': 665,
-  'candidat_iohannis': 40.902255639097746,
-  'candidat_ponta': 43.45864661654135,
-  'localitate': 'STĂNEŞTI',
-  'raport_speciali_votat': 18.49624060150376,
-  'raport_votat_inscrisi': 66.3010967098704},
- {'alegatori': 1148,
-  'candidat_iohannis': 28.65853658536585,
-  'candidat_ponta': 52.09059233449478,
-  'localitate': 'TETOIU',
-  'raport_speciali_votat': 18.37979094076655,
-  'raport_votat_inscrisi': 54.69271081467365},
- {'alegatori': 1572,
-  'candidat_iohannis': 22.96437659033079,
-  'candidat_ponta': 60.43256997455471,
-  'localitate': 'ŞUŞANI',
-  'raport_speciali_votat': 18.25699745547074,
-  'raport_votat_inscrisi': 57.64576457645765}]
+Localitate                 Voturi Totale    Raport Suplimentare/Total    Raport Votat/Inscrisi    Ponta    Iohannis    Voturi Ponta
+-----------------------  ---------------  ---------------------------  -----------------------  -------  ----------  --------------
+ORAŞ CĂLIMĂNEŞTI                5131                      27.3436                   68.633  37.8874     40.7718            1944
+ORAŞ BĂILE OLĂNEŞTI             3248                      32.3276                  84.0362  49.9076     26.5086            1621
+ŞUŞANI                            1572                       18.257                  57.6458  60.4326     22.9644             950
+LUNGEŞTI                           1488                      17.8091                  56.7289   53.293     28.6962             793
+ORAŞ BĂILE GOVORA                 2082                      27.4736                  81.9685  37.9923     41.3545             791
+DĂNICEI                            1124                      19.2171                  63.6467  60.7651     17.7936             683
+TETOIU                              1148                      18.3798                  54.6927  52.0906     28.6585             598
+LĂDEŞTI                           1142                      27.6708                  75.3298  50.5254     36.4273             577
+ZĂTRENI                            1114                      20.2873                  56.0644  50.8079     26.0323             566
+ROŞIILE                            1100                      17.8182                  51.1628  50.1818     24.8182             552
+GLĂVILE                             959                       17.414                  55.6911  49.8436     25.0261             478
+LĂPUŞATA                          1046                      17.8776                  58.9628  44.8375     38.8145             469
+MĂCIUCA                            1161                      27.3902                  75.2918  36.1757     50.9905             420
+GHIOROIU                             816                       23.652                  61.1236  47.1814     30.0245             385
+CÎINENI                            1117                      21.0385                  60.0538  29.7225     53.3572             332
+MILCOIU                              688                      24.4186                  65.3992    43.75     33.7209             301
+STĂNEŞTI                           665                      18.4962                  66.3011  43.4586     40.9023             289
+RACOVIŢA                            788                      19.2893                  57.7289  25.7614     55.9645             203
+RUNCU                                496                      17.3387                  59.4012  36.8952     37.2984             183
+TITEŞTI                             521                      24.3762                   75.398   24.952     60.2687             130
