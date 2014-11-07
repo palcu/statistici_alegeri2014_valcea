@@ -31,8 +31,7 @@ def get_most_special_sections(data):
                  'candidat_iohannis': x['iohannis'] / x['total_alegatori_care_au_votat'] * 100,
                  'voturi_ponta': x['ponta']}
                 for x in data]
-    top_furt = sorted(sections, key=lambda x: x['raport_speciali_votat'], reverse=True)[:20]
-    return sorted(top_furt, key=lambda x: x['voturi_ponta'], reverse=True)
+    return sorted(sections, key=lambda x: x['raport_speciali_votat'], reverse=True)[:20]
 
 
 def make_table(data):
@@ -40,7 +39,7 @@ def make_table(data):
              'Raport Votat/Inscrisi', 'Ponta', 'Iohannis', 'Voturi Ponta']]
     for row in data:
         table.append([row['localitate'], row['alegatori'], row['raport_speciali_votat'],
-                     row['raport_votat_inscrisi'], row['candidat_ponta'], row['candidat_iohannis'], row['voturi_ponta']])
+                     row['raport_votat_inscrisi'], row['candidat_ponta'], row['candidat_iohannis']])
     return table
 
 def main():
